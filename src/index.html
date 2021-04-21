@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="de" manifest="manifest.appcache">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{name}} - {{alternateName}}</title>
+    <link href="/icon.png" rel="icon" type="image/png" />
+    <meta content="width=device-width,initial-scale=1" name="viewport" />
+    <meta name="theme-color" content="#07a" />
+    <meta content="{{name}}" name="author" />
+    <meta content="{{description}}" name="description" />
+    <meta content="{{telephone}}" name="contact" />
+    <meta content="{{url}}" name="og:url" />
+    <meta content="{{name}}" name="og:title" />
+    <meta content="{{description}}" name="og:description" />
+    <meta content="{{image}}" name="og:image" />
+    <meta content="de_DE" name="og:locale" />
+    <style>{{{style}}}</style>
+    <script type="application/ld+json">{{{schema}}}</script>
+  </head>
+  <body class="background">
+    <div class="wrapper">
+      <aside>
+        <section class="section">
+          <img src="{{logo.contentUrl}}" class="logo" alt="Praxislogo" />
+          <h2>Sprechzeiten</h2>
+          <table>
+          {{#each openingHours}}
+            <tr>
+              <td>{{this.days}}</td>
+              <td>{{this.hours}}</td>
+            </tr>
+          {{/each}}
+          </table>
+          <h2>Kontakt</h2>
+          <table>
+            <tr>
+              <td>Adresse</td>
+              <td>
+                <a href="https://www.google.com/maps?q={{address.streetAddress}}, {{address.addressLocality}}" target="_blank" rel="noopener noreferrer">{{address.streetAddress}}, {{address.postalCode}} {{address.addressLocality}}</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Tel.</td>
+              <td>{{telephone}}</td>
+            </tr>
+            <tr>
+              <td>Fax.</td>
+              <td>{{faxNumber}}</td>
+            </tr>
+            <tr>
+              <td>E-Mail</td>
+              <td>
+                <a href="mailto:{{email}}" target="_blank" rel="noopener noreferrer">{{email}}</a>
+              </td>
+            </tr>
+          </table>
+        </section>
+      </aside>
+      <main>
+        <section class="section">
+          <h1>{{name}}</h1>
+          <h4>{{alternateName}}</h4>
+          {{{info}}}
+        </section>
+        <section class="section">
+          {{{about}}}
+        </section>
+      </main>
+    </div>
+    <footer>
+      <div class="footer-container">
+        <a href="/impressum/" class="privacy">Impressum</a>
+      </div>
+    </footer>
+    <script>var a=window.applicationCache;a&&a.addEventListener('updateready',function(){a.status==4&&location.reload()})</script>
+  </body>
+</html>

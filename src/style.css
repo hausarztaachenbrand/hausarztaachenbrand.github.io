@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilites;
+@screens;
+
+html {
+  @apply h-full;
+}
+
+body {
+  @apply overflow-y-auto min-h-full text-lg relative pb-8;
+}
+
+.background {
+  background: url(/background.svg);
+  background-size: auto 90%;
+  background-position: 80% 50%;
+  @apply bg-no-repeat bg-lightblue bg-fixed xl:bg-local;
+}
+
+@media (min-width: 768px) {
+  .background {
+    background-position: 50%;
+  }
+}
+
+.wrapper {
+  @apply container lg:flex lg:flex-row-reverse mx-auto justify-between;
+}
+
+.section {
+  /* box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%); */
+  border: 1px solid rgba(238, 238, 238, 0.5);
+  backdrop-filter: blur(2px);
+  @apply bg-white bg-opacity-70 rounded-3xl p-12 pt-8 overflow-hidden;
+  @apply md:m-8 md:mb-16 m-4 md:mb-8;
+}
+
+h1 {
+  @apply sm:text-5xl md:text-4xl text-3xl mt-4 font-bold text-blue;
+}
+
+h2 {
+  @apply sm:text-4xl md:text-3xl text-2xl my-4;
+}
+
+h3 {
+  @apply sm:text-3xl md:text-2xl text-xl my-4;
+}
+
+h4 {
+  @apply sm:text-3xl md:text-2xl text-xl mb-4;
+}
+
+p {
+  @apply mb-2;
+}
+
+a {
+  @apply text-blue underline;
+}
+
+ul {
+  @apply pl-6;
+}
+
+table {
+  margin-right: -1rem;
+}
+@media (min-width: 768px) {
+  table {
+    margin-right: -2rem;
+  }
+}
+
+td {
+  @apply pl-0 sm:pr-8 pr-2 pt-0 pb-2 align-top;
+}
+
+main {
+  @apply 2xl:w-4/6;
+}
+
+aside {
+  @apply 2xl:w-2/6 lg:w-min;
+}
+
+footer {
+  @apply h-8 bg-red absolute w-full bottom-0;
+  border-top: 1px solid rgba(238, 238, 238, 0.5);
+  @apply bg-red rounded-t-3xl;
+}
+
+.footer-container {
+  @apply container mx-auto md:px-8 px-4;
+}
+
+.logo {
+  max-width: 250px;
+  @apply w-full lg:min-w-full opacity-40;
+}
+
+.privacy {
+  @apply float-right text-gray-50 underline text-sm leading-loose;
+}

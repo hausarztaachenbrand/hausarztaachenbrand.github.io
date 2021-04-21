@@ -1,0 +1,29 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalClinic",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "DE",
+        "addressLocality": "Aachen",
+        "addressRegion": "NRW",
+        "postalCode": "52078",
+        "streetAddress": "Niederforstbacher Str. 36"
+    },
+    "name": "Hausarztpraxis Aachen-Brand",
+    "alternateName": "Dr. med. Astrid Bartholomé",
+    "description": "Zeit für Ihre medizinischen und menschlichen Bedürfnisse",
+    "logo": {
+        "@type": "ImageObject",
+        "caption": "Hausarztpraxis Aachen-Brand",
+        "contentUrl": "/logo.jpg"
+    },
+    "openingHours": [
+      "Mo-Fr 8:00-12:00",
+      "Tu,Th 16:30-18:30"
+    ],
+    "telephone": "(0241) 525353",
+    "faxNumber": "(0241) 5661779",
+    "url": "https://hausarztaachenbrand.github.io",
+    "email": "hausarztbartholome@gmx.de",
+    "image": "/logo.jpg"
+}

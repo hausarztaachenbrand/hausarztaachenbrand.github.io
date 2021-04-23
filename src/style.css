@@ -15,6 +15,7 @@ body {
   background: url(/background.svg);
   background-size: auto 90%;
   background-position: 80% 50%;
+  transition: background-size 2s ease-in;
   @apply bg-no-repeat bg-lightblue bg-fixed;
 }
 

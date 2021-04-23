@@ -36,7 +36,11 @@ async function getData() {
     hours = hours.map(x => {
       let [days, hours] = x.split(' ', 2);
       if (days.includes(',')) {
-        days = days.split(',').map(day => DAYS[day]).join(', ');
+        days = days.split(',').map(day => DAYS[day]);
+        if (days.length > 2) {
+          days = days.map(day => day.substr(0, 2));
+        }
+        days = days.join(', ');
       } else {
         days = days.split('-').map(day => DAYS[day]).join(' - ');
       }

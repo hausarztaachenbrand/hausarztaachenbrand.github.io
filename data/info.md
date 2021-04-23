@@ -1,13 +1,14 @@
 ## Corona-Schutzimpfung
-
-Alle Bürgerinnen und Bürger in Nordrhein-Westfalen, die 70 Jahre und älter sind, haben aktuell die Möglichkeit zur Corona-Schutzimpfung im Impfzentrum (Krefelder Straße, Aachen)
-
+Viele Bürgerinnen und Bürger in Nordrhein-Westfalen haben aktuell die Möglichkeit zur Corona-Schutzimpfung im Impfzentrum.
+Aktuelle Informationen: https://www.land.nrw/de/corona/impfung und https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles
 [Zur Online Impfterminbuchung](https://termin.corona-impfung.nrw/home)
 
-Bitte mitbringen:
+****Bitte beachten Sie, alle  über das Online-Portal vergebenen Termine im Aachener Impfzentrum,  Hubert-Wienen-Straße 8, 52070 Aachen, stattfinden und nicht in unserer Praxis.** Leider ist es über das Online-Portal in den letzten Wochen mehrfach zu Scheinbuchungen in unserer Praxis bekommen. Sollten Sie einen solchen Termin zugewiesen bekommen, stornieren Sie ihn bitte und buchen einen neuen Termin. 
 
-* Terminbestätigung
-* Impfpass (falls vorhanden)
-* Medizinische Unterlagen (zum Beispiel Herzpass, Diabetikerausweis oder Medikamentenliste) – falls vorhanden
+Eine Corona-Impfung in unserer Hausarztpraxis oder per Hausbesuch ist in begrenztem Umfang auch möglich. 
+ - Priorisierungsvorgaben gelten auch hier (insbesondere chronische Erkrankung)
+ - kein Anspruch auf einen bestimmten Impfstoff
+ - Wir melden uns telefonisch bei unseren Patienten, wenn ein Impftermin möglich ist
+ - telefonische Registrierung auf unserer Warteliste möglich
 
-Eine Corona-Impfung in unserer Hausarztpraxis ist in begrenztem Umfang auch möglich. Dabei müssen auch wir uns nach den Priorisierungsvorgaben der Gesundheitsbehörden (Alter/Vorerkrankungen) richten. Gerne können Sie sich auf Wunsch telefonisch auf unserer Warteliste registrieren lassen. Alternativ stellen wir unseren Patienten bei uns bekannten chronischen Vorerkrankungen gern eine Bescheinigung zur Vorlage beim Impfzentrum aus.
+Die aktuellen Aufklärungsbögen zum jeweiligen Impfstoff finden Sie auf: https://www.rki.de/DE/Content/Infekt/Impfen/Materialien/COVID-19-Aufklaerungsbogen-Tab.html

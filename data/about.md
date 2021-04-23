@@ -1,8 +1,8 @@
 ## Über Uns
 
-Unser Team aus einer Ärztin für Allgemeinmedizin und Medizinischen Fachangestellten ist gerne in allen Belangen Ihrer Gesundheit für sie da.
+Im Rahmen eines ganzheitlichen Verständnisses ist unser Team aus einer Ärztin für Allgemeinmedizin, 4 Medizinischen Fachangestellten und einer Auszubildenden ist gerne in allen Belangen Ihrer Gesundheit für sie da.
 
-Eine vertrauensvolle Zusammenarbeit zwischen Patient und Arzt ist uns wichtig. Wir legen Wert auf eine ausführliche Beratung.
+Eine vertrauensvolle Zusammenarbeit zwischen Patient und Arzt ist uns wichtig. Wir legen Wert auf eine ausführliche Beratung und an den aktuellen fachlichen Leitlinien orientierte Diagnostik und Therapie.
 
 
 ## Leistungen

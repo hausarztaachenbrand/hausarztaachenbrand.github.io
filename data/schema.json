@@ -18,10 +18,9 @@
         "contentUrl": "/logo.svg"
     },
     "openingHours": [
-      "Mo,Tu,Th,Fr 8:00-09:00",
-      "Mo,Tu,Th,Fr 09-12:00",
-      "Tu,Th 16:30-18:30",
-      "We 08:00-13:00"
+      ["Regulär", ["Mo,Tu,Th,Fr 09:00-12:00", "Tu,Th 16:30-18:30"]],
+      ["Infektionssprechstunde", ["Mo,Tu,Th,Fr 08:00-09:00"]],
+      ["Impftag", ["We 08:00-13:00"]]
     ],
     "telephone": "(0241) 525353",
     "faxNumber": "(0241) 5661779",

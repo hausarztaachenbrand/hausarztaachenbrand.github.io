@@ -23,14 +23,18 @@
         <section class="section">
           <img src="{{logo.contentUrl}}" class="logo" alt="Praxislogo" />
           <h2>Sprechzeiten</h2>
-          <table>
+          <h5>Nur nach telefonischer Anmeldung</h5>
           {{#each openingHours}}
+          <h6>{{title}}</h6>
+          <table>
+            {{#each this.hours}}
             <tr>
               <td>{{this.days}}</td>
               <td class="hours">{{this.hours}}</td>
             </tr>
-          {{/each}}
+            {{/each}}
           </table>
+          {{/each}}
           <h2>Kontakt</h2>
           <table>
             <tr>

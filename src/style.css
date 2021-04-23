@@ -56,6 +56,15 @@ h4 {
   @apply sm:text-3xl md:text-2xl text-xl mb-4;
 }
 
+h5 {
+  margin-top: -1rem;
+  @apply sm:text-2xl md:text-xl text-lg mb-4 text-blue font-bold;
+}
+
+h6 {
+  @apply sm:text-xl md:text-lg mb-0 font-bold;
+}
+
 p {
   @apply mb-2;
 }
@@ -70,6 +79,7 @@ ul {
 
 table {
   margin-right: -1rem;
+  width: calc(100% + 2rem);
 }
 @media (min-width: 768px) {
   table {

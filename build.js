@@ -32,16 +32,22 @@ const DAYS = {
 async function getData() {
   const info = md.render(fs.readFileSync('./data/info.md', 'utf8'));
   const about = md.render(fs.readFileSync('./data/about.md', 'utf8'));
-  const openingHours = schema.openingHours.map(x => {
-    let [days, hours] = x.split(' ', 2);
-    if (days.includes(',')) {
-      days = days.split(',').map(day => DAYS[day]).join(', ');
-    } else {
-      days = days.split('-').map(day => DAYS[day]).join(' - ');
-    }
+  const openingHours = schema.openingHours.map(([title, hours]) => {
+    hours = hours.map(x => {
+      let [days, hours] = x.split(' ', 2);
+      if (days.includes(',')) {
+        days = days.split(',').map(day => DAYS[day]).join(', ');
+      } else {
+        days = days.split('-').map(day => DAYS[day]).join(' - ');
+      }
+      return {
+        days,
+        hours,
+      };
+    });
     return {
-      days,
       hours,
+      title,
     };
   });
   const data = {
@@ -51,6 +57,9 @@ async function getData() {
     about,
     style: await css(),
   };
+  schema.openingHours = schema.openingHours.map(([title, hours]) => {
+    return hours;
+  }).flat();
   schema.logo = schema.url + schema.contentUrl;
   schema.image = schema.url + schema.image;
   data.schema = JSON.stringify(schema);

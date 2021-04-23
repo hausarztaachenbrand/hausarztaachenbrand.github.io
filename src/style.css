@@ -15,7 +15,7 @@ body {
   background: url(/background.svg);
   background-size: auto 90%;
   background-position: 80% 50%;
-  @apply bg-no-repeat bg-lightblue bg-fixed xl:bg-local;
+  @apply bg-no-repeat bg-lightblue bg-fixed;
 }
 
 @media (min-width: 768px) {

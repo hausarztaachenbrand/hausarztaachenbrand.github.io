@@ -1,6 +1,6 @@
 ## Über Uns
 
-Im Rahmen eines ganzheitlichen Verständnisses ist unser Team aus einer Ärztin für Allgemeinmedizin, 4 Medizinischen Fachangestellten und einer Auszubildenden gerne in allen Belangen Ihrer Gesundheit für sie da.
+Im Rahmen eines ganzheitlichen Verständnisses ist unser Team aus einer Ärztin für Allgemeinmedizin, 4 Medizinischen Fachangestellten und einer Auszubildenden gerne in allen Belangen Ihrer Gesundheit für Sie da.
 
 Eine vertrauensvolle Zusammenarbeit zwischen Patient und Arzt ist uns wichtig. Wir legen Wert auf eine ausführliche Beratung und an den aktuellen fachlichen Leitlinien orientierte Diagnostik und Therapie.
 
@@ -20,7 +20,7 @@ Unsere Praxis bietet ein breites allgemeinmedizinisches Leistungsspektrum, u.a.:
  - Belastungs-EKG
  - Langzeit-EKG
  - Langzeit-Blutdruckmessung
- - Abstriche
+ - Abstriche, PCR-Tests, Schnelltests
  - Impfungen
  - Hyposensibilisierung
  - Wundverbände

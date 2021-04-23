@@ -18,7 +18,8 @@
         "contentUrl": "/logo.svg"
     },
     "openingHours": [
-      "Mo-Fr 8:00-12:00",
+      "Mo,Th,Fr 8:00-12:00",
+      "Tu,We 8:00-12:30",
       "Tu,Th 16:30-18:30"
     ],
     "telephone": "(0241) 525353",

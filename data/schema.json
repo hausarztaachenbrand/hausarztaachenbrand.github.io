@@ -15,7 +15,7 @@
     "logo": {
         "@type": "ImageObject",
         "caption": "Hausarztpraxis Aachen-Brand",
-        "contentUrl": "/logo.jpg"
+        "contentUrl": "/logo.svg"
     },
     "openingHours": [
       "Mo-Fr 8:00-12:00",
@@ -25,5 +25,5 @@
     "faxNumber": "(0241) 5661779",
     "url": "https://hausarztaachenbrand.github.io",
     "email": "hausarztbartholome@gmx.de",
-    "image": "/logo.jpg"
+    "image": "/icon-512.png"
 }

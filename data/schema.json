@@ -18,10 +18,9 @@
         "contentUrl": "/logo.svg"
     },
     "openingHours": [
-      "Mo,Th,Fr 8:00-12:00",
-      "Tu,We 8:00-12:30",
-      "Tu,Th 16:30-18:30"
-    ],
+      "infectionOpeningHours Mo,Tu,Th,Fr 8:00-09:00",
+      "regularOpeningHours Mo,Tu,Th,Fr 09-12:00", "Tu,Th 16:30-18:30",
+      "VaccinationDay We 08:00-13:00"]
     "telephone": "(0241) 525353",
     "faxNumber": "(0241) 5661779",
     "url": "https://hausarztaachenbrand.github.io",

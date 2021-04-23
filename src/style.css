@@ -37,8 +37,7 @@ body {
 }
 
 .hours {
-  min-width: 8.25rem;
-  @apply text-right;
+  @apply text-right whitespace-nowrap;
 }
 
 h1 {

@@ -49,6 +49,10 @@ h2 {
   @apply sm:text-4xl md:text-3xl text-2xl my-4;
 }
 
+p + h2 {
+  @apply mt-8;
+}
+
 h3 {
   @apply sm:text-3xl md:text-2xl text-xl my-4;
 }
@@ -67,7 +71,7 @@ h6 {
 }
 
 p {
-  @apply mb-2;
+  @apply mb-4;
 }
 
 a {
@@ -75,7 +79,8 @@ a {
 }
 
 ul {
-  @apply pl-6;
+  margin-top: -0.5rem;
+  @apply pl-6 mb-4 list-disc;
 }
 
 table {

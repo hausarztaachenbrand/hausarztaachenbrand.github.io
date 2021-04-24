@@ -31,7 +31,9 @@ const DAYS = {
 
 async function getData() {
   const info = md.render(fs.readFileSync('./data/info.md', 'utf8'));
+  fs.writeFileSync('./src/info.html', info);
   const about = md.render(fs.readFileSync('./data/about.md', 'utf8'));
+  fs.writeFileSync('./src/about.html', about);
   const openingHours = schema.openingHours.map(([title, hours]) => {
     hours = hours.map(x => {
       let [days, hours] = x.split(' ', 2);

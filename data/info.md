@@ -3,7 +3,7 @@ Viele Bürgerinnen und Bürger im Raum Aachen haben aktuell die Möglichkeit zur
 
 [Zur Online Impfterminbuchung](https://termin.corona-impfung.nrw/home)
 
-**Bitte beachten Sie, alle  über das Online-Portal vergebenen Termine im Aachener Impfzentrum,  Hubert-Wienen-Straße 8, 52070 Aachen, stattfinden und nicht in unserer Praxis.** Leider ist es über das Online-Portal in den letzten Wochen mehrfach zu Scheinbuchungen in unserer Praxis gekommen. Sollten Sie einen solchen Termin zugewiesen bekommen, stornieren Sie ihn bitte und buchen einen neuen Termin. 
+**Bitte beachten Sie, dass alle  über das Online-Portal vergebenen Termine im Aachener Impfzentrum,  Hubert-Wienen-Straße 8, 52070 Aachen, stattfinden und nicht in unserer Praxis.** Leider ist es über das Online-Portal in den letzten Wochen mehrfach zu Scheinbuchungen in unserer Praxis gekommen. Sollten Sie einen solchen Termin zugewiesen bekommen, stornieren Sie ihn bitte und buchen einen neuen Termin. 
 
 Eine Corona-Impfung in unserer Praxis oder per Hausbesuch ist in begrenztem Umfang auch möglich. 
  - Priorisierungsvorgaben gelten auch hier (insbesondere chronische Erkrankung)

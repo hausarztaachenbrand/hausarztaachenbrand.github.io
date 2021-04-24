@@ -8,7 +8,7 @@ Viele Bürgerinnen und Bürger im Raum Aachen haben aktuell die Möglichkeit zur
 Eine Corona-Impfung in unserer Praxis oder per Hausbesuch ist in begrenztem Umfang auch möglich. 
  - Priorisierungsvorgaben gelten auch hier (insbesondere chronische Erkrankung)
  - kein Anspruch auf einen bestimmten Impfstoff
- - Wir melden uns telefonisch bei unseren Patienten, wenn ein Impftermin möglich ist
+ - Wir melden uns telefonisch bei unseren Patienten, wenn ein Impftermin möglich ist.
  
 Die aktuellen Aufklärungsbögen zum jeweiligen Impfstoff finden Sie auf: <https://www.rki.de/DE/Content/Infekt/Impfen/Materialien/COVID-19-Aufklaerungsbogen-Tab.html>
 

@@ -20,7 +20,7 @@
     "openingHours": [
       ["Regulär", ["Mo,Tu,Th,Fr 09:00-12:00", "Tu,Th 16:30-18:30"]],
       ["Infektionssprechstunde", ["Mo,Tu,Th,Fr 08:00-09:00"]],
-      ["Impftag", ["We 08:00-13:00"]]
+      ["Impftag/Notfallsprechstunde", ["We 08:00-13:00"]]
     ],
     "telephone": "(0241) 525353",
     "faxNumber": "(0241) 5661779",

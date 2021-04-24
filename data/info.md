@@ -1,5 +1,5 @@
 ## Corona-Schutzimpfung
-Viele Bürgerinnen und Bürger im Raum Aachen haben aktuell die Möglichkeit zur Corona-Schutzimpfung im Impfzentrum.  Infos: <https://www.land.nrw/de/corona/impfung>
+Viele Bürgerinnen und Bürger im Raum Aachen haben aktuell die Möglichkeit zur Corona-Schutzimpfung im Impfzentrum.       Infos: <https://www.land.nrw/de/corona/impfung>
 
 [Zur Online Impfterminbuchung](https://termin.corona-impfung.nrw/home)
 

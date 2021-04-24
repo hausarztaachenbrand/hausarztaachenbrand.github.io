@@ -1,5 +1,5 @@
 ## Corona-Schutzimpfung
-Viele Bürgerinnen und Bürger in Nordrhein-Westfalen haben aktuell die Möglichkeit zur Corona-Schutzimpfung im Impfzentrum.
+Viele Bürgerinnen und Bürger im Raum Aachen haben aktuell die Möglichkeit zur Corona-Schutzimpfung im Impfzentrum.  Infos: <https://www.land.nrw/de/corona/impfung>
 
 [Zur Online Impfterminbuchung](https://termin.corona-impfung.nrw/home)
 
@@ -9,8 +9,7 @@ Eine Corona-Impfung in unserer Hausarztpraxis oder per Hausbesuch ist in begrenz
  - Priorisierungsvorgaben gelten auch hier (insbesondere chronische Erkrankung)
  - kein Anspruch auf einen bestimmten Impfstoff
  - Wir melden uns telefonisch bei unseren Patienten, wenn ein Impftermin möglich ist
- - telefonische Registrierung auf unserer Warteliste möglich
-
+ 
 Die aktuellen Aufklärungsbögen zum jeweiligen Impfstoff finden Sie auf: <https://www.rki.de/DE/Content/Infekt/Impfen/Materialien/COVID-19-Aufklaerungsbogen-Tab.html>
 
-Aktuelle Informationen: <https://www.land.nrw/de/corona/impfung> und <https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles>
+Aktuelle Informationen:  <https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles>

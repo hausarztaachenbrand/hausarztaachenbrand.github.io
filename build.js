@@ -56,6 +56,7 @@ async function getData() {
       title,
     };
   });
+  schema.image = schema.url + schema.image;
   const data = {
     ...schema,
     openingHours,
@@ -66,8 +67,7 @@ async function getData() {
   schema.openingHours = schema.openingHours.map(([title, hours]) => {
     return hours;
   }).flat();
-  schema.logo = schema.url + schema.contentUrl;
-  schema.image = schema.url + schema.image;
+  schema.logo = schema.url + schema.logo.contentUrl;
   data.schema = JSON.stringify(schema);
   return data;
 }

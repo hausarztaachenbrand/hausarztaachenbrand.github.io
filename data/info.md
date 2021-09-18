@@ -3,11 +3,11 @@ Bis zum 30. September 2021 besteht in Aachen noch die Möglichkeit zur Corona-Sc
 
 [Zur Online Impfterminbuchung](https://termin.corona-impfung.nrw/home)
 
-Ab dem 1. Oktober 2021 ist das Impfzentrum in der Eissporthalle nicht mehr in Betrieb.
+Ab dem 1. Oktober 2021 ist das Impfzentrum in der Eissporthalle zwar nicht mehr in Betrieb, aber die Praxen impfen weiter.
 
-Jedoch ist eine Corona-Impfung (auch Erstimpfung) in unserer Praxis oder per Hausbesuch  weiterhin möglich.
+Sie wünschen eine Covid19-Impfung in unserer Praxis oder als Hausbesuch?
  - Sprechen oder rufen Sie uns gerne an.
- - Gern nehmen wir Sie in unsere Warteliste auf.
+ - Gern nehmen wir Sie in unsere Warteliste auf (auch für Erstimpfungen)
  - Bitte beachten Sie, dass Auffrischimpfungen frühestens 6 Monate nach der zweiten Impfung erfolgen dürfen (Personenkreis siehe STIKO-Empfehlung).
  - Wir melden uns telefonisch bei unseren Patienten, sobald ein Impftermin möglich ist.
  - Aktuelle Wartezeit auf einen Impftermin: ca. 2-6 Wochen.

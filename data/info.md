@@ -1,14 +1,16 @@
-## Corona-Schutzimpfung
-Derzeit besteht in Aachen weiterhin die Möglichkeit zur Corona-Schutzimpfung im Impfzentrum.                  Infos: <https://www.land.nrw/de/corona/impfung>
+## Corona-Schutzimpfung weiterhin möglich
+Bis zum 30. September 2021 besteht in Aachen noch die Möglichkeit zur Corona-Schutzimpfung im Impfzentrum über Online-Buchung.                 Infos: <https://www.land.nrw/de/corona/impfung>
 
 [Zur Online Impfterminbuchung](https://termin.corona-impfung.nrw/home)
 
-**Bitte beachten Sie, dass alle  über das Online-Portal vergebenen Termine im Aachener Impfzentrum,  Hubert-Wienen-Straße 8, 52070 Aachen, stattfinden und nicht in unserer Praxis.** Leider ist es über das Online-Portal in den letzten Wochen mehrfach zu Scheinbuchungen in unserer Praxis gekommen. Sollten Sie einen solchen Termin zugewiesen bekommen, stornieren Sie ihn bitte und buchen einen neuen Termin. 
+Ab dem 1. Oktober 2021 ist das Impfzentrum in der Eissporthalle nicht mehr in Betrieb.
 
-Eine Corona-Impfung in unserer Praxis oder per Hausbesuch ist in begrenztem Umfang auch möglich. 
- - Registrierung auf Warteliste möglich
- - kein Anspruch auf einen bestimmten Impfstoff
- - Wir melden uns telefonisch bei unseren Patienten, wenn ein Impftermin möglich ist.
+Jedoch ist eine Corona-Impfung (auch Erstimpfung) in unserer Praxis oder per Hausbesuch  weiterhin möglich.
+ - Sprechen oder rufen Sie uns gerne an.
+ - Gern nehmen wir Sie in unsere Warteliste auf.
+ - Bitte beachten Sie, dass Auffrischimpfungen frühestens 6 Monate nach der zweiten Impfung erfolgen dürfen (Personenkreis siehe STIKO-Empfehlung).
+ - Wir melden uns telefonisch bei unseren Patienten, sobald ein Impftermin möglich ist.
+ - Aktuelle Wartezeit auf einen Impftermin: ca. 2-6 Wochen.
  
 Die aktuellen Aufklärungsbögen zum jeweiligen Impfstoff finden Sie auf: <https://www.rki.de/DE/Content/Infekt/Impfen/Materialien/COVID-19-Aufklaerungsbogen-Tab.html>
 

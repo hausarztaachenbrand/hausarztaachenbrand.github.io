@@ -18,10 +18,9 @@
         "contentUrl": "/logo.svg"
     },
     "openingHours": [
-      ["Regulär", ["Mo,Tu,Th,Fr 08:00-11:30", "Tu,Th 16:30-18:30"]],
-      ["Infektsprechstunde", ["Mo,Tu,Th,Fr 11:30-12:15"]],
-      ["Impftag/Notfallsprechstunde", ["We 08:00-13:00"]]
-    ],
+      ["Regulär", ["Mo-Fr 08:00-11:30", "Tu,Th 16:30-18:30"]],
+      ["Infektsprechstunde", ["Mo-Fr 11:30-12:15"]],
+          ],
     "telephone": "(0241) 525353",
     "faxNumber": "(0241) 5661779",
     "url": "https://hausarztaachenbrand.de",

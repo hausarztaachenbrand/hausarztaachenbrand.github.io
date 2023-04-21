@@ -1,9 +1,12 @@
-## Demnächst einfachere Anforderung von Rezepten und Überweisungen per Telefon
-Damit wir in Zukunft telefonisch für Sie besser erreichbar sind, richten wir in Kürze eine Telefonanlage für Sie ein, über die Sie Ihre Rezept- und Überweisungswünsche auf den Anrufbeantworter sprechen können. Den genauen Zeitpunkt werden wir noch bekannt geben. 
+## Bessere telefonische Erreichbarkeit und einfachere Rezeptbestellung ab 11.5.2023
 
-Terminvergabe für die Sprechstunden (auch amselben Tag) erfolgt weiterhin direkt telefonisch über eine Mitarbeiterin, ebenso die Beratung zu persönlichen Anliegen.
+Unsere neue Telefonanlage bietet Ihnen ab 11.5.2023 folgende Vorteile:
 
-Für allgemeine Anfragen nutzen Sie gern unsere E-Mail-Adresse hausarztbartholome@gmx.de. Die E-Mail kann NICHT für dringende Anfragen genutzt werden.
+1. Ihre Wünsche für Wiederholungsrezepte und Überweisungen können Sie nach Angabe Ihres Vor- und Zunahmens einfach auf Band sprechen. 
+
+2. Für Terminvergabe (auch im Akutfall) und persönliche Anliegen sind unsere Mitarbeiterinnen am Telefon für Sie da.
+
+Für allgemeine Anfragen nutzen Sie gern unsere E-Mail-Adresse hausarztbartholome@gmx.de. Beachten Sie bitte, dass die E-Mail NICHT für akute Anliegen geeignet ist.
  
 
  

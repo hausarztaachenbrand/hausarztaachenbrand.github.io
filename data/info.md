@@ -8,4 +8,3 @@ Unsere neue Telefonanlage bietet Ihnen ab 11.5.2023 folgende Vorteile:
 
 Für allgemeine Anfragen nutzen Sie gern unsere E-Mail-Adresse [hausarztbartholome@gmx.de](mailto:hausarztbartholome@gmx.de). Beachten Sie bitte, dass die E-Mail NICHT für akute Anliegen geeignet ist.
  
-

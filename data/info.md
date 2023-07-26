@@ -1,4 +1,4 @@
-# Verbesserte telefonische Erreichbarkeit
+## Verbesserte telefonische Erreichbarkeit
    
 Unsere **neue Telefonanlage** bietet Ihnen  folgende Vorteile:
 

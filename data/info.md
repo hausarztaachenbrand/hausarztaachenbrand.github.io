@@ -1,5 +1,6 @@
-          
-Unsere **neue Telefonanlage** bietet Ihnen seit dem 11.5.2023 folgende Vorteile:
+# Verbesserte telefonische Erreichbarkeit
+   
+Unsere **neue Telefonanlage** bietet Ihnen  folgende Vorteile:
 
 1. Ihre Wünsche für Wiederholungsrezepte und Überweisungen können Sie nach Angabe Ihres Vor- und Zunamens einfach auf Band sprechen. Abholung ist ab dem Folgetag möglich.
 

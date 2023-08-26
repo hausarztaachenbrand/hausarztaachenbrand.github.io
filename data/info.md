@@ -3,7 +3,7 @@ Ab Oktober bieten wir in unserer Praxis wieder  Corona-Impfungen an - gern auch 
 
 
 ## Junge ärztliche Kollegin 
-Ab 1.10.2023 wird Frau Dr. Zeitler, eine junge Ärztin,  unser Praxisteam verstärken. Frau Zeitler war zuvor in der Uniklinik Aachen tätig und möchte sich nun in die hausärztliche Allgemeinmedizin einarbeiten. Wir freuen uns auf die Zusammenarbeit!
+Ab 1.10.2023 wird Frau Dr. Zeitler, eine junge Ärztin,  unser Praxisteam verstärken. Frau Zeitler war zuvor in der Uniklinik Aachen tätig und möchte sich nun auf die hausärztliche Allgemeinmedizin spezialisieren. Wir freuen uns auf die Zusammenarbeit!
 
 
 ## Elektronisches Rezept wird vorbereitet

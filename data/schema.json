@@ -18,7 +18,7 @@
         "contentUrl": "/logo.svg"
     },
     "openingHours": [
-      ["Regulär", ["Mo-Do 08:00-11:30", "Fr 09:00-12:00" "Tu,Th 16:30-18:30"]],
+      ["Regulär", ["Mo-Do 08:00-11:30", "Fr 09:00-12:00", "Tu,Th 16:30-18:30"]],
       ["Infektsprechstunde", ["Mo-Do 11:30-12:15", "Fr 08.00-09:00"]]
     ],
     "telephone": "(0241) 525353",

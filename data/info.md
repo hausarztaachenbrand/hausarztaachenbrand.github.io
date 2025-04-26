@@ -1,11 +1,11 @@
-## Sie sind über 60? Zeit für die Grippe- und Coronaimpfung
-Wie jeden Herbst bieten wir auch 2024 saisonale Impfungen an. Für über 60jährige wird weiterhin eine Grippe- und Coronaimpfung empfohlen. Unter 60 Jahre gibt es Impfempfehlungen für bestimmte Gruppen. Die Impfung gegen RSV (Respiratory Syncytial Virus) wird demnächst für alle ab 75 Jahre kommen. Noch fehlt die Freigabe als allgemeine Kassenleistung.
+## Vorsorgeuntersuchungen ab 35 Jahren
+Die allgemeine Gesundheitsuntersuchung wird alle 3 Jahre empfohlen und umfasst eine Blutabnahme und in der Regel nach Erhalt der Ergebnisse eine körperliche Untersuchung von Kopf bis Fuß, Beratung zum Risiko von Herz-Kreislauferkrankungen sowie Überprüfung des Impfstatus. Denken Sie daher daran, zum Besprechungstermin  Ihren Impfpass mitzubringen. Alle 2 Jahre wird ein Hautkrebsscreening empfohlen. Sie sind schon über 45 oder älter? Dann beraten wir Sie gern zu weiteren Krebsvorsorgeuntersuchungen.
 
 ### Rezeptbestellung per Telefon
 Jedes Quartal muss beim ersten Kontakt Ihre Versichertenkarte in der Praxis eingelesen werden. Dann können Sie Ihre Wünsche für Wiederholungsrezepte und Überweisungen telefonisch nach Drücken der Taste "1" und Angabe Ihres Vor- und Zunamens einfach auf Band sprechen. Abholung ist ab dem Folgetag möglich. Für Terminvergaben und andere Anfragen lassen Sie sich mit einer Mitarbeiterin verbinden. Unsere E-Mail-Adresse [hausarztbartholome@gmx.de](mailto:hausarztbartholome@gmx.de) ist nur für allgemeine Anfragen gedacht. Wir bitten daher, von Rezeptanfragen per E-Mail abzusehen.
 
-## Junge ärztliche Kollegin 
-Seit dem 1.10.2023 verstärkt Frau Dr. Zeitler, eine junge Ärztin,  unser Praxisteam. Frau Zeitler war zuvor in der Uniklinik Aachen tätig und ist dabei, sich auf die hausärztliche Allgemeinmedizin zu spezialisieren. Wir freuen uns über die Zusammenarbeit!
+## RSV-Impfung 
+Für alle ab 75 wird die Impfung gegen RSV, Respiratory Syncytial Virus, empfohlen, ein Virus, das eine schwere Atemwegserkrankung mit Luftnot hervorrufen kann. Bei bestimmten Vorerkrankungen, etwa schweren Herz- oder Lungenerkrankungen, wird eine Impfung schon ab 60 Jahren empfohlen. Sprechen Sie uns gern an! 
 
 
 
